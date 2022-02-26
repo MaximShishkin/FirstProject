@@ -1,4 +1,4 @@
-package ru.shishkin.starkvstanos;
+package ru.shishkin.starkVsTanosGameVersion1;
 
 //Библиотека
 import javax.swing.JFrame;
@@ -38,14 +38,14 @@ public class Start {
 		
 		mypotok.start();
 		*/
-		JFrame okno = new JFrame("МОЯ ПЕРВАЯ АНИМАЦИЯ");
+		JFrame okno = new JFrame("Stark Vs Tanos");
 		okno.setBounds(10,10,1200,700);
-		// Запретить изменять размеры окна
+
 		okno.setResizable(false);
-		// Добавим класс Panel
+
 		okno.add(new Panel());
 		okno.setVisible(true);
-		// Очищение оперативной памяти после закрытия окна
+
 		okno.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 }

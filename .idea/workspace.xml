@@ -1,28 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="57c04169-b537-4c63-ad80-15f3a7b0bca7" name="Changes" comment="" />
+    <list default="true" id="96aaceb9-1582-4537-bf60-5ef92d7df043" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="24ggmOCJO2kYAfsXfBjRt5zRRfZ" />
+  <component name="ProjectId" id="25b8suxNFfYbI48j9TOtAAJaDY7" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Files\MakShish\Desktop\awdaw\StarkVsTanosGameVersion1\src\main\resources" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.shishkin.starkvstanos.Start" />
-      <module name="FirstProject" />
+      <option name="MAIN_CLASS_NAME" value="ru.shishkin.starkVsTanosGameVersion1.Start" />
+      <module name="StarkVsTanosGameVersion1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.shishkin.starkvstanos.*" />
+          <option name="PATTERN" value="ru.shishkin.starkVsTanosGameVersion1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
