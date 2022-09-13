@@ -1,24 +1,23 @@
-package ru.shishkin.starkVsTanosGameVersion1;
+package ru.shishkin.starkVsTanosGame;
 
 //Библиотека
 import javax.swing.JFrame;
-//import javax.swing.JOptionPane;
-//import java.io.File;
-//import java.io.FileInputStream;
-//import java.io.InputStream;
-//import javazoom.jl.player.AudioDevice;
-//import javazoom.jl.player.JavaSoundAudioDevice;
-//import javazoom.jl.player.advanced.AdvancedPlayer;
+/*
+import javax.swing.JOptionPane;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.InputStream;
+import javazoom.jl.player.AudioDevice;
+import javazoom.jl.player.JavaSoundAudioDevice;
+import javazoom.jl.player.advanced.AdvancedPlayer;
+*/
 
-public class Start {
+public class Application {
 
 	public static void main(String[] args) {
 		/*
 		String filepath = JOptionPane.showInputDialog("Введите путь до файла");
-		
-		// Новый поток для запуска музыки
-		
-		Thread mypotok = new Thread (new Runnable() {
+		Thread myPotok = new Thread (new Runnable() {
 			public void run() {
 				try {
 					File soundFile = new File(filepath);
@@ -35,9 +34,10 @@ public class Start {
 				}
 			}
 		});
-		
-		mypotok.start();
+		myPotok.start();
 		*/
+		new ThreadWithMusic();
+
 		JFrame okno = new JFrame("Stark Vs Tanos");
 		okno.setBounds(10,10,1200,700);
 
