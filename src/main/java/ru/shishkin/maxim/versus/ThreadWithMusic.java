@@ -1,11 +1,12 @@
-package ru.shishkin.starkVsTanosGame;
+package ru.shishkin.maxim.versus;
 
 import java.io.IOException;
 import java.io.InputStream;
+
 import javazoom.jl.decoder.JavaLayerException;
 import javazoom.jl.player.Player;
 
-public class ThreadWithMusic  extends Thread{
+public class ThreadWithMusic extends Thread {
     public ThreadWithMusic() {
         start();
     }

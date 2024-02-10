@@ -17,18 +17,26 @@
       </list>
     </option>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="25b8suxNFfYbI48j9TOtAAJaDY7" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Maven.StarkVsTanos [clean].executor": "Run",
+    "Maven.StarkVsTanos [install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Admin/Desktop/gitt/stark-vs-tanos",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Files\MakShish\Desktop\git\StarkVsTanosGame\src\main\resources" />
@@ -37,7 +45,14 @@
       <recent name="D:\Files\MakShish\Desktop\awdaw\StarkVsTanosGameVersion1\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JAR Application.StarkVsTanosGame-1.0-SNAPSHOT-jar-with-dependencies.jar">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.shishkin.maxim.versus.App" />
+      <module name="Versus" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.shishkin.starkVsTanosGame.Application" />
       <module name="StarkVsTanosGameVersion1" />
@@ -57,8 +72,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="JAR Application.StarkVsTanosGame-1.0-SNAPSHOT-jar-with-dependencies.jar" />
-        <item itemvalue="Application.Start" />
       </list>
     </recent_temporary>
   </component>
