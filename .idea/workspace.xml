@@ -17,9 +17,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="25b8suxNFfYbI48j9TOtAAJaDY7" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -29,10 +29,12 @@
     "Application.App.executor": "Run",
     "Maven.StarkVsTanos [clean].executor": "Run",
     "Maven.StarkVsTanos [install].executor": "Run",
+    "Maven.versus [clean].executor": "Run",
+    "Maven.versus [install].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Admin/Desktop/gitt/stark-vs-tanos",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "C:/Users/Admin/Desktop/gitt/versus",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
